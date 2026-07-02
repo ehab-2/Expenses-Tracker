@@ -111,7 +111,6 @@ function removeTransaction(id) {
   updateTransactionList();
   updateSummary();
 }
-
 // initial render
 updateTransactionList();
 updateSummary();
